@@ -2,7 +2,6 @@ What's the Weather Like?
 
 ## Background
 ![Equator](Images/equatorsign.png)
-"What's the weather like as we approach the equator?"
 
 ## WeatherPy
 
