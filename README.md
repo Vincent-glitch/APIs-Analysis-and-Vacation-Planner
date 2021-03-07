@@ -1,5 +1,5 @@
 ### User Instructions
-* Clone the repository: git clone https://github.com/Vincent-glitch/Google-API-and-Weather-API-Analysis-and-Vacation-Planner.git
+* Clone the repository: git clone https://github.com/Vincent-glitch/APIs-Analysis-and-Vacation-Planner.git
 * Open api_keys.py [API_Keys](notebooks/api_keys.py) and input your Google API key and OpenWeatherMap API key.
 * Open the [WeatherPy](notebooks/WeatherPy.ipynb) file and run the cells top down.
 * Open the [VacationPy](notebooks/VacationPy.ipynb) file and run the cells top down.
