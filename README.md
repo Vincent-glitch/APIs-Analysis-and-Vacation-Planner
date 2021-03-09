@@ -1,9 +1,9 @@
-### User Instructions
-* Clone the repository: git clone https://github.com/Vincent-glitch/APIs-Analysis-and-Vacation-Planner.git
-* Open api_keys.py [API_Keys](notebooks/api_keys.py) and input your Google API key and OpenWeatherMap API key.
-* Open the [WeatherPy](notebooks/WeatherPy.ipynb) file and run the cells top down.
-* Open the [VacationPy](notebooks/VacationPy.ipynb) file and run the cells top down.
+# APIs-Analysis-and-Vacation-Planner
 
+Analysis: This Python script uses the CitiPy library and the OpenWeatherMapAPI to visualize the weather of 500+ random cities across the world of varying distance from the equator via scatter plots. 
+Planner: Using  Jupyter-Gmaps and Google Places API this script will create a heat map that displays the humidity for every city used from the WeatherPy Analysis. This script then narrows down the locations to ones with ideal user input conditions.
+
+- - -
 ### Tech Stack
 * Python
 * Jupyter Notebook
@@ -14,7 +14,13 @@
 * OpenWeatherMap API 
 * CitiPy 
 * Jupyter-Gmaps
-
+- - -
+### User Instructions
+* Clone the repository: git clone https://github.com/Vincent-glitch/APIs-Analysis-and-Vacation-Planner.git
+* Open api_keys.py [API_Keys](notebooks/api_keys.py) and input your Google API key and OpenWeatherMap API key.
+* Open the [WeatherPy](notebooks/WeatherPy.ipynb) file and run the cells top down.
+* Open the [VacationPy](notebooks/VacationPy.ipynb) file and run the cells top down.
+- - -
 ## Weather Analysis
 
 This Python script uses  the CitiPy library and the OpenWeatherMapAPI to visualize the weather of 500+ random cities across the world of varying distance from the equator via scatter plots. 
